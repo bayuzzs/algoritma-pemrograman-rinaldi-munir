@@ -1,0 +1,12 @@
+{
+  "name": "cpp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gas": "g++ main.cpp -o main.exe && main"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
