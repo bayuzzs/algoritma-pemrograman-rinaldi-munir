@@ -1,3 +1,12 @@
+/* --- SOAL ---
+Buatlah prosedur untuk mencetak piramid dengan "ketinggian" n (asumsi: n<= 10) Sebagai Contoh
+jika n = 6, maka piramid yang dihasilkan adalah:
+     1
+    232
+   34543
+  4567654
+ 567898765
+67890109876 */
 #include <iostream>
 using namespace std;
 
