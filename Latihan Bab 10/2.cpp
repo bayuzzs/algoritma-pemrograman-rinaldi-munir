@@ -9,7 +9,7 @@ void hitungRataRata(int count, float *total)
 {
   if (count == 0)
   {
-    std::cout << "Tidak ada data yang dimasukkan." << std::endl;
+    std::cout << "Tidak ada data yang dimasukkan" << std::endl;
     return;
   }
 
