@@ -2,7 +2,7 @@
 Tulislah prosedur yang menghasilkan nilai rata-rata sekumpulan data bilangan bulat yang dibaca secara
 berulang-ulang dari papan ketik(akhir pembacaan adalah 9999). Prosedur memiliki (parameter) luaran,
 yaitu nilai rata-rata yang dihasilkan.
- */
+*/
 #include <iostream>
 
 void hitungRataRata(int count, float *total)
