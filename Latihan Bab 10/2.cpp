@@ -17,6 +17,7 @@ void hitungRataRata(int count, float *total)
   std::cout << "Rata-rata: " << *total << std::endl;
 }
 
+
 int main()
 {
   float total = 0;
